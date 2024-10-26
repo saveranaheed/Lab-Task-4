@@ -41,5 +41,23 @@ OUTPUT:
 ![Program
 Output](https://github.com/user-attachments/assets/ec5b2d2e-4a1b-4404-84a4-0c4a3712f351)
 
+TASK 03:
+```cpp
+#include <iostream>
+using namespace std;
+int main() {
+    int num=5;
+    for (int i=1;i<=10;i++)
+    {
+        cout<<num<<"*"<<i<<"="<<num*i<<endl;    
+    }
+    }
+```
+OUTPUT:
+
+![3](https://github.com/user-attachments/assets/695333b5-fea1-414d-9ea2-9307e85fb5f2)
+
+
+
 
 
