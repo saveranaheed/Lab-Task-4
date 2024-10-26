@@ -15,6 +15,5 @@ int main() {
     
 }
 
-### for output click on below link
 ![1](https://github.com/user-attachments<img src="URL_or_Path_to_Image" alt="Alt Text" width="200" />/assets/ee256819-aa6b-4d90-abce-0d9aaebdcc5e)
 
