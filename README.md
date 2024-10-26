@@ -5,11 +5,11 @@ I faced some issues with my Windows version, so I completed my assignment using 
 I have added the code in the README file on GitHub for submission.</span>
 
 
-'''cpp
+''' cpp
 #include <iostream><br>
 using namespace std;<br>
 int main() {<br>
-    for (int i=1;i<=5;i++)<br.
+    for (int i=1;i<=5;i++)<br>
     {<br>
         cout<<i<<endl;<br>
     }<br>
