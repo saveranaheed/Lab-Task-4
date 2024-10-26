@@ -15,5 +15,6 @@ int main() {
     
 }
 
-![1](https://github.com/user-attachments/assets/ee256819-aa6b-4d90-abce-0d9aaebdcc5e)
+
+![1](https://github.com/user-attachments/assets/a63a9a98-d7c0-4fb8-a73d-334684eda4c2)
 
