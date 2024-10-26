@@ -35,7 +35,7 @@ int main() {
     }
     cout<<sum;
     }
-'''
+```
 OUTPUT:
 
 ![Program
