@@ -21,3 +21,24 @@ OUTPUT:
 ![Program
 Output](https://github.com/user-attachments/assets/a63a9a98-d7c0-4fb8-a73d-334684eda4c2)
 
+
+TASK 02:
+```cpp
+#include <iostream>
+using namespace std;
+int main() {
+    int n=10;
+    int sum=0;
+    for(int i=1;i<=n;i++)
+    {
+        sum +=i;
+    }
+    cout<<sum;
+    }
+'''
+OUTPUT:
+
+![2](https://github.com/user-attachments/assets/ec5b2d2e-4a1b-4404-84a4-0c4a3712f351)
+
+
+
