@@ -104,6 +104,41 @@ OUTPUT:
 
 ![6](https://github.com/user-attachments/assets/9a9240cb-6e41-4d50-9781-2bef0ee433e1)
 
+TASK 07 Grade classification based on marks
+```cpp
+#include <iostream>
+using namespace std;
+int main(){
+     int numSubjects=3; 
+    int marks[numSubjects]={85, 92, 47}; 
+    for (int i=0;i<numSubjects;++i)
+    {
+        cout<<"Marks for subject"<<(i+1)<<":"<<marks[i]<<"-";
+        if (marks[i] >=90)
+        {
+            cout<<"Grade A"<<endl;
+        }
+        else if (marks[i]>=75)
+        {
+            cout<<"Grade B"<<endl;
+        }
+        else if (marks[i]>=50) 
+        {
+            cout<<"Grade C"<< endl;
+        } 
+        else{
+            cout<<"Grade F"<<endl;
+        }
+    }
+}
+```
+
+OUTPUT:
+
+![7](https://github.com/user-attachments/assets/e4d36fa2-d5bc-4d56-9061-9b0291658a78)
+
+
+
 
 
 
