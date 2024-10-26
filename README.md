@@ -16,6 +16,7 @@ int main() {
     
 }
 ```
+OUTPUT:
 
 ![Program
 Output](https://github.com/user-attachments/assets/a63a9a98-d7c0-4fb8-a73d-334684eda4c2)
