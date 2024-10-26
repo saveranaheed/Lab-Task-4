@@ -38,7 +38,8 @@ int main() {
 '''
 OUTPUT:
 
-![2](https://github.com/user-attachments/assets/ec5b2d2e-4a1b-4404-84a4-0c4a3712f351)
+![Program
+Output](https://github.com/user-attachments/assets/ec5b2d2e-4a1b-4404-84a4-0c4a3712f351)
 
 
 
